@@ -1,0 +1,46 @@
+# Dependencies and generated web output
+node_modules/
+.npm-cache/
+dist/
+dist-ssr/
+
+# Local environment and machine configuration
+.env
+.env.*
+!.env.example
+*.local
+android/local.properties
+
+# Android and Capacitor generated output
+android/.gradle/
+android/**/build/
+android/.idea/
+android/capacitor-cordova-android-plugins/
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json
+android/app/src/main/res/xml/config.xml
+
+# Packages, signing material, and release artifacts
+*.apk
+*.aab
+*.aar
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+deploy/
+
+# Logs, editor state, and local automation artifacts
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vscode/
+.idea/
+.DS_Store
+.*-remote-attachments/
+.*-trends-*.png

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Salience</string>
+    <string name="title_activity_main">Salience</string>
+    <string name="package_name">nz.salience.app</string>
+    <string name="custom_url_scheme">nz.salience.app</string>
+    <string name="widget_title">Salience</string>
+    <string name="widget_description">Quote and logging status widget</string>
+    <string name="widget_wide_description">4x1 quote and logging status widget</string>
+    <string name="widget_settings">Settings</string>
+    <string name="widget_default_status">Open Salience to update today\'s status.</string>
+    <string name="widget_default_quote">One entry is enough for today.</string>
+    <string name="widget_default_author">- Salience</string>
+</resources>
